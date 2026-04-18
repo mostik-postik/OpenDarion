@@ -4,7 +4,7 @@
 
 **A powerful and secure open-source OS built on Darwin-XNU**
 
-[![Build](https://img.shields.io/github/actions/workflow/status/YOUR_USERNAME/OpenDarion/build.yml?branch=main&style=flat-square&label=build)](https://github.com/YOUR_USERNAME/OpenDarion/actions)
+[![Build](https://img.shields.io/github/actions/workflow/status/mostik-postik/OpenDarion/build.yml?branch=main&style=flat-square&label=build)](https://github.com/mostik-postik/OpenDarion/actions)
 [![License](https://img.shields.io/badge/license-APSL--2.0%20%2F%20MIT-blue?style=flat-square)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-x86--64%20%7C%20ARM64-lightgrey?style=flat-square)](#)
 [![Status](https://img.shields.io/badge/status-early%20development-orange?style=flat-square)](#roadmap)
@@ -81,7 +81,7 @@ Each user is fully isolated. Apps installed in `~/Applications` require no admin
 ### Build
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/OpenDarion.git
+git clone https://github.com/mostik-postik/OpenDarion.git
 cd OpenDarion
 git submodule update --init --recursive
 
@@ -197,7 +197,7 @@ OpenDarion — операционная система с открытым ис�
 ### Сборка
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/OpenDarion.git
+git clone https://github.com/mostik-postik/OpenDarion.git
 cd OpenDarion
 git submodule update --init --recursive
 
